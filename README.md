@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
