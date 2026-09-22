@@ -13,22 +13,31 @@ class Solution {
         ListNode dummyNode=new ListNode(0);
         ListNode curr=dummyNode;
         int carry=0;
-        ListNode p1=l1;
-        ListNode p2=l2;
-        while(p1!=null||p2!=null||carry!=0){
-         int val1 = (p1 != null) ? p1.val : 0;
-            int val2 = (p2 != null) ? p2.val : 0;
+        while(l1!=null||l2!=null||carry!=0){
+          int val1;
+          if(l1!=null){
+            val1=l1.val;
+          }else{
+            val1=0;
+          }
+          int val2;
+          if(l2!=null){
+            val2=l2.val;
+          }else{
+            val2=0;
+          }
           int sum=val1+val2+carry;
-          carry=sum/10;
           int save=sum%10;
+          carry=sum/10;
           curr.next=new ListNode(save);
           curr=curr.next;
-         if(p1!=null){ 
-             p1=p1.next;
-             }
-         if(p2!=null){ 
-            p2=p2.next;
-            }
+          if(l1!=null){
+            l1=l1.next;
+          }
+          if(l2!=null){
+            l2=l2.next;
+          }
+
         }
         return dummyNode.next;
     }
