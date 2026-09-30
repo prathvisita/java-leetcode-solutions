@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3978-unique-middle-element](https://github.com/prathvisita/java-leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/prathvisita/java-leetcode-solutions/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->
