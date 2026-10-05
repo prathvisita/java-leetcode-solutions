@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0344-reverse-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0148-sort-list) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
