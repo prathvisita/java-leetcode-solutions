@@ -6,7 +6,7 @@ class Solution {
         left--;
         right++;
       }
-       return right - left - 1;
+       return right - left - 1;// this line 
     }
     public String longestPalindrome(String s) {
          if(s.length()<=1){
@@ -25,11 +25,11 @@ class Solution {
 
         if(len>maxLen){
             maxLen=len;
-            start=i-(len-1)/2;
+            start=i-(len-1)/2; // this line
         }
 
         }
 
-        return s.substring(start,start+maxLen);
+        return s.substring(start,start+maxLen);//this line 
     }
 }
