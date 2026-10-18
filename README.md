@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
