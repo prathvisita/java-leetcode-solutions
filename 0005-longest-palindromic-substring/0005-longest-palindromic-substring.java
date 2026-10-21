@@ -1,35 +1,34 @@
 class Solution {
-    private int calculatePalindrome(String s,int left,int right){
-     // int count=0;
-      while(left>=0&&right<s.length()&&s.charAt(left)==s.charAt(right)){
-       // count++;
-        left--;
-        right++;
-      }
-       return right - left - 1;// this line 
-    }
-    public String longestPalindrome(String s) {
-         if(s.length()<=1){
-            return s;
+    private int isPalindrome(String s,int left,int right){
+        while(left>=0&&right<s.length()&&s.charAt(left)==s.charAt(right)){
+            left--;
+            right++;
         }
-        int start=0;
-        int maxLen=0;
+        return right-left-1;
+    }
 
-        for(int i=0;i<s.length();i++){
+    public String longestPalindrome(String s) {
+      if(s==null||s.length()<=1){
+        return s;
+      }
+      int start=0;
+      int max=0;
 
-        int len1=calculatePalindrome(s,i,i);
+      for(int i=0;i<s.length();i++){
 
-        int len2=calculatePalindrome(s,i,i+1);
+        int len1=isPalindrome(s,i,i);
+        int len2=isPalindrome(s,i,i+1);
 
         int len=Math.max(len1,len2);
 
-        if(len>maxLen){
-            maxLen=len;
-            start=i-(len-1)/2; // this line
+        if(len>max){
+            max=len;
+            start=i-(len-1)/2;
         }
+      }
 
-        }
+    
+   return s.substring(start,start+max);
 
-        return s.substring(start,start+maxLen);//this line 
     }
 }
