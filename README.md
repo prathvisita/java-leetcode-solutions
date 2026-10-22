@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
