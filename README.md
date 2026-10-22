@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String Matching
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3978-unique-middle-element](https://github.com/prathvisita/java-leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
