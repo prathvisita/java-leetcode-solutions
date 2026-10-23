@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/prathvisita/java-leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
