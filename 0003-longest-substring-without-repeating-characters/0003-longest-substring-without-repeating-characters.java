@@ -4,20 +4,20 @@ class Solution {
             return 0;
         }
         int i=0;
-        int j=1;
+        int j=i+1;
         int count=1;
         int maxC=1;
-        while(j<s.length()){
+        while(i<j&&j<s.length()){
             if(s.charAt(i)!=s.charAt(j)&&s.substring(i,j).indexOf(s.charAt(j))==-1){
                 count++;
+                if(count>maxC){
+                    maxC=count;
+                }
                 j++;
             }else{
-                i++;
                 count=1;
+                i++;
                 j=i+1;
-            }
-            if(count>maxC){
-                maxC=count;
             }
         }
         return maxC;
