@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/prathvisita/java-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
