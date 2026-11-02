@@ -1,8 +1,8 @@
 class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
-        ArrayList<String>list=new ArrayList<>();
+        Set<String>list=new HashSet<>();
         if(s==null||s.length()<=10){
-            return list;
+            return new ArrayList<>();
         }
         HashMap<String , Integer>freq=new HashMap<>();
         int i=0;
@@ -10,13 +10,14 @@ class Solution {
         while(j<=s.length()){
             String res=s.substring(i,j);
             if(freq.containsKey(res)){
-                if(!list.contains(res)){
-                list.add(res);}
+                // if(!list.contains(res)){
+                list.add(res);
+                // }
             }
             freq.put(res,freq.getOrDefault(res,0)+1);
             i++;
             j++;
         }
-        return list;
+        return new ArrayList<>(list);
     }
 }
