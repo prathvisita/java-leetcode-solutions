@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/prathvisita/java-leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/prathvisita/java-leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
