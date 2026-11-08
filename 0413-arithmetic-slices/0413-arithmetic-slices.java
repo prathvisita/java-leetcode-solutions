@@ -1,9 +1,9 @@
 class Solution {
     public int numberOfArithmeticSlices(int[] nums) {
-        if(nums.length<3){
-            return 0;
+        // if(nums.length<3){
+        //     return 0;
 
-        }
+        // }
         int i=0;
         int j=2;
         int count=0;
