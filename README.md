@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0413-arithmetic-slices](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
