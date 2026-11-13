@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0496-next-greater-element-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
