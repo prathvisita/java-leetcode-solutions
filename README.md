@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Z Algorithm
 |  |
