@@ -25,15 +25,12 @@ class Solution {
                 cur=cur.next;
             }
         }
-        while(p1!=null&&p2==null){
+        if(p1!=null&&p2==null){
            cur.next=p1;
-           p1=p1.next;
-           cur=cur.next;
+          
         }
-         while(p2!=null&&p1==null){
+         if(p2!=null&&p1==null){
            cur.next=p2;
-           p2=p2.next;
-           cur=cur.next;
         }
         return dummy.next;
     }
