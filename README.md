@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0176-second-highest-salary) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
