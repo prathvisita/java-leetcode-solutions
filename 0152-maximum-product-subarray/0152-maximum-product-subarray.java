@@ -5,14 +5,10 @@ class Solution {
         }
         int maxp=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
-            int p=nums[i];
+            int p=1;
             for(int j=i;j<nums.length;j++){
-                if(j==i){
-                   maxp=Math.max(maxp,p);
-                }else{
                     p*=nums[j];
                     maxp=Math.max(maxp,p);
-                }
             }
         }
         return maxp;
