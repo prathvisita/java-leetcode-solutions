@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0485-max-consecutive-ones](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prathvisita/java-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
