@@ -1,13 +1,13 @@
 class Solution {
-    private static int cl(int dp[],int n){
-        if(n<=1){
-            return n;
-        }
-        if(dp[n]!=0){
-            return dp[n];
-        }
-        return dp[n]=cl(dp,n-2)+cl(dp,n-1);
-    } 
+    // private static int cl(int dp[],int n){
+    //     if(n<=1){
+    //         return n;
+    //     }
+    //     if(dp[n]!=0){
+    //         return dp[n];
+    //     }
+    //     return dp[n]=cl(dp,n-2)+cl(dp,n-1);
+    // } 
 
     public int climbStairs(int n) {
         if(n==1){
@@ -16,6 +16,9 @@ class Solution {
         int dp[]= new int[n+1];
         dp[1]=1;
         dp[2]=2;
-        return cl(dp,n);
+        for(int i=3;i<dp.length;i++){
+            dp[i]=dp[i-1]+dp[i-2];
+        }
+        return dp[n];
     }
 }
