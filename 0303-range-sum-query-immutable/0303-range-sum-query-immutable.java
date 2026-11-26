@@ -1,7 +1,7 @@
 class NumArray {
     int[] a;
     public NumArray(int[] nums) {
-       this.a=nums;
+        this.a=nums;
     }
     
     public int sumRange(int left, int right) {
